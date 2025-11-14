@@ -1,0 +1,62 @@
+Comandos do Promt de Comando do Windows :
+
+Como iniciar ?
+Clicar em Iniciar > digitar cmd
+Executar com elevação / modo administrado
+Tab = Completa arquivos
+
+Bóson Treinamentos
+https://www.youtube.com/watch?v=9JCEIq7svL4
+Me Ensina
+https://www.youtube.com/watch?v=66ta9rPcRZs
+
+Erros :
+
+1-O utilitário de ajuda não dá suporte a este comando. Experimente usar "hostname /?" 
+Explicação : Não tem suporte pra ajuda solicitada
+Solução : hostname /?
+
+Comandos :
+
+cd = Muda o diretório atual
+cd .. = Sobe um nível
+cd C:\Users = Vai pra pasta Users
+cd nome_da_pasta = Caso você esteja na pasta
+chdir
+chkdsk
+cipher /w:C: = Exclui os arquivos excluídos da Lixeira
+cleanmgr
+cls = Limpa a tela do Prompt
+color = Permite alterar a cor do prompt ou volta pra cor padrão
+color 1A = Fundo azul com texto verde claro
+date = Mostra a data atual e permite alterar ela
+dir = Verificar o conteúdo de um diretório
+dir /A = Exibe arquivos com atributos especificados
+drivequery -v
+excel winword powerpnt
+exit = Fecha o Prompt de Comando
+explorer
+help = Comandos disponíveis
+help color = 
+help hostname = 
+help nomedocomando = Aparece ajuda do comando disponível
+hostname = Mostra o nome do Computador
+ipconfig
+ipconfig /flushdns
+netstat
+perfmon
+ping endereço_do_site
+robocopy
+shutdown = Desligar ou Reiniciar o Computador
+shutdown /? = Ajuda
+shutdown /a = Cancela o desligamento
+shutdown /r = Reinicia o computador
+shutdown /s = Desliga o computador
+systeminfo
+taskkill
+tasklist
+time = Mostra a hora atual e permite alterar ela
+tracert
+utilman
+ver = Mostra a versão do Windows atual
+Winver = Mostra a versão do Windows atual
